@@ -1,0 +1,8 @@
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\bin\Debug\ContadorCaracteresAlfabeto.exe.config
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\bin\Debug\ContadorCaracteresAlfabeto.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\bin\Debug\ContadorCaracteresAlfabeto.pdb
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\obj\Debug\ContadorCaracteresAlfabeto.csproj.AssemblyReference.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\obj\Debug\ContadorCaracteresAlfabeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\obj\Debug\ContadorCaracteresAlfabeto.csproj.CoreCompileInputs.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\obj\Debug\ContadorCaracteresAlfabeto.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ContadorCaracteresAlfabeto\ContadorCaracteresAlfabeto\obj\Debug\ContadorCaracteresAlfabeto.pdb

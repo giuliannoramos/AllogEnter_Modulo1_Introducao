@@ -1,0 +1,8 @@
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\bin\Debug\ManipulacaoDeVetores.exe.config
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\bin\Debug\ManipulacaoDeVetores.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\bin\Debug\ManipulacaoDeVetores.pdb
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\obj\Debug\ManipulacaoDeVetores.csproj.AssemblyReference.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\obj\Debug\ManipulacaoDeVetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\obj\Debug\ManipulacaoDeVetores.csproj.CoreCompileInputs.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\obj\Debug\ManipulacaoDeVetores.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ManipulacaoDeVetores\ManipulacaoDeVetores\obj\Debug\ManipulacaoDeVetores.pdb

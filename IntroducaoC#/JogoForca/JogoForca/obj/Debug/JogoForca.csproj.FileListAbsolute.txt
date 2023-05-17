@@ -1,0 +1,8 @@
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.AssemblyReference.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.SuggestedBindingRedirects.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\obj\Debug\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\bin\Debug\JogoForca.exe.config
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\bin\Debug\JogoForca.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\bin\Debug\JogoForca.pdb
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\obj\Debug\JogoForca.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\JogoForca\JogoForca\obj\Debug\JogoForca.pdb

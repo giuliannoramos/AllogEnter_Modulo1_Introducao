@@ -1,0 +1,8 @@
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\bin\Debug\CalcularArmazenarIMC.exe.config
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\bin\Debug\CalcularArmazenarIMC.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\bin\Debug\CalcularArmazenarIMC.pdb
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\obj\Debug\CalcularArmazenarIMC.csproj.AssemblyReference.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\obj\Debug\CalcularArmazenarIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\obj\Debug\CalcularArmazenarIMC.csproj.CoreCompileInputs.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\obj\Debug\CalcularArmazenarIMC.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CalcularArmazenarIMC\CalcularArmazenarIMC\obj\Debug\CalcularArmazenarIMC.pdb

@@ -1,0 +1,8 @@
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\bin\Debug\SequenciaInversa.exe.config
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\bin\Debug\SequenciaInversa.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\bin\Debug\SequenciaInversa.pdb
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\obj\Debug\SequenciaInversa.csproj.AssemblyReference.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\obj\Debug\SequenciaInversa.csproj.SuggestedBindingRedirects.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\obj\Debug\SequenciaInversa.csproj.CoreCompileInputs.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\obj\Debug\SequenciaInversa.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\SequenciaInversa\SequenciaInversa\obj\Debug\SequenciaInversa.pdb

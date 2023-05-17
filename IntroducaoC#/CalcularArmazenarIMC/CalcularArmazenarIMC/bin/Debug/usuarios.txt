@@ -1,0 +1,6 @@
+Nome: ana
+Idade: 18
+Peso: 70
+Altura: 1,75
+IMC: 22,86
+

@@ -1,0 +1,8 @@
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.AssemblyReference.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.SuggestedBindingRedirects.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb

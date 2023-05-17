@@ -1,0 +1,8 @@
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\bin\Debug\CadastroEmArquivoDeTexto.exe.config
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\bin\Debug\CadastroEmArquivoDeTexto.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\bin\Debug\CadastroEmArquivoDeTexto.pdb
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\obj\Debug\CadastroEmArquivoDeTexto.csproj.AssemblyReference.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\obj\Debug\CadastroEmArquivoDeTexto.csproj.SuggestedBindingRedirects.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\obj\Debug\CadastroEmArquivoDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\obj\Debug\CadastroEmArquivoDeTexto.exe
+C:\Users\giule\source\repos\AllogEnter_Modulo1_Introducao\IntroducaoC#\CadastroEmArquivoDeTexto\CadastroEmArquivoDeTexto\obj\Debug\CadastroEmArquivoDeTexto.pdb
